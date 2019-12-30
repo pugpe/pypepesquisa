@@ -8,7 +8,7 @@
  
   Sendo assim, essa pesquisa surgiu para que possamos mostrar para as pessoas esses pontos que foram levantados em discussões durante o ano. Pois as comunidades não são organizadas por um grupo restrito de pessoas, mas sim por tod@s que a compõem.
 
-  Com isso, essa pesquisa foi montada e distribuída em parceria com as principais comunidades de Python presentes na Região Metropolitana do Recife entre os dias 07 e 20 de Dezembro de 2019.
+  Com isso, essa pesquisa foi montada e distribuída em parceria com as principais comunidades de Python presentes na Região Metropolitana do Recife **entre os dias 07 e 20 de Dezembro de 2019**.
 
 ## Como surgiram essas perguntas?
 
@@ -22,7 +22,7 @@
 
 ## Respostas
 
-  [Nessa apresentação](pypepesquisa_2019.pdf) você poderá ver algumas respostas selecionadas. Mas caso você queira ver todas as respostas coletadas nessa pesquisa, é só acessar a [página](respostas_2019/Respostas.html).
+  [Nessa apresentação](pypepesquisa_2019.pdf) você poderá ver algumas respostas selecionadas. Mas caso você queira ver todas as respostas coletadas nessa pesquisa, elas estão [nesse link](https://docs.google.com/spreadsheets/d/1aF7ep5SGScXyXXCnMx_ergC1zeuZ73w27Hl7A7fYOyY/edit?usp=sharing) ou você pode baixar esse [html](respostas_2019/Respostas.html).
 
 ## Agradecimentos
 
