@@ -1,4 +1,4 @@
-# Pesquisa sobre a comunidade Python no estado de PE
+# Pesquisa sobre a comunidade Python no estado de PE [WIP]
 
 ## O que é essa pesquisa?
 
