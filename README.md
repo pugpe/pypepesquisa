@@ -1,14 +1,12 @@
-# Pesquisa sobre a comunidade Python no estado de PE [WIP]
+# Pesquisa sobre a comunidade Python no estado de PE
+
+Caso você deseje ver a apresentação referente a essa pesquisa, ela se encontra no [SpeakerDeck do PUG-PE](https://speakerdeck.com/pugpe/pesquisa-sobre-a-comunidade-python-em-pernambuco). Além disso, esse repositório possui uma versão em [PDF](pypepesquisa_2019.pdf) da apresentação e uma versão em [HTML](respostas_2019/Respostas.html) das respostas adquiridas.
 
 ## O que é essa pesquisa?
 
   Atualmente os grupos responsáveis pelas organizações das comunidades **PUG-PE**, **PyLadies Recife** e **AfroPython** são compostos por voluntári@s. Além de serem caracterizados pela rotatividade dos membros, onde pessoas entram e saem a todo momento.
 
-  Sendo assim, foi acordado que essas pessoas não deveriam decidir o formato das atividades que iriam ocorrer na comunidade e não iriam levantar a resposta final por questões que surgiram durante o ano de 2019.
- 
-  Sendo assim, essa pesquisa surgiu para que possamos mostrar para as pessoas esses pontos que foram levantados em discussões durante o ano. Pois as comunidades não são organizadas por um grupo restrito de pessoas, mas sim por tod@s que a compõem.
-
-  Com isso, essa pesquisa foi montada e distribuída em parceria com as principais comunidades de Python presentes na Região Metropolitana do Recife **entre os dias 07 e 20 de Dezembro de 2019**.
+  A pesquisa a qual estamos apresentando os resultados foi montada e distribuída em parceria com as principais comunidades de Python presentes no estado de Pernambuco entre **os dias 07 e 20 de Dezembro de 2019**. Seu objetivo foi compreender os pontos favoráveis ou não à participação da comunidade aos próprios eventos, com isso melhorar a organização dos encontros de Python em nosso estado.
 
 ## Como surgiram essas perguntas?
 
